@@ -1,4 +1,4 @@
-# CSV Data Mining and Analysis
+# Obesity Analysis
 This project demonstrates data mining and exploratory data analysis techniques on a CSV dataset, The objective of this project is to extract insights and patterns from a dataset using Python data mining techniques, using libraries like pandas, matplot, seaborn, sklearn. 
 
 This repository contains a project focused on data mining techniques used to analyze a dataset in CSV format. The project involves importing, cleaning, and performing exploratory data analysis on the dataset.
